@@ -1,11 +1,8 @@
 # IMDB-website
 a java based web application deployed on Apache Tomcat.
 
-
-## Web Engineering
-
-
-Fall 2021
+- Web Engineering
+- Fall 2021
 
 
 Semester Project: Proposal 
@@ -51,5 +48,5 @@ Modules:
 
 •	Session management
 
-DATABASE IS CREATED IN SQLYOG
-=============================
+# DATABASE IS CREATED IN SQLYOG
+
