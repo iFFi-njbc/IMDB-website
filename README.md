@@ -48,5 +48,5 @@ Modules:
 
 •	Session management
 
-# DATABASE IS CREATED IN SQLYOG
+# DATABASE IS CREATED IN MySQLYOG
 
