@@ -50,3 +50,29 @@ Modules:
 
 # DATABASE IS CREATED IN MySQLYOG
 
+Login Page
+==========
+<img src="Images/loginPage.jpg" width="600">
+
+SignUp Page
+===========
+<img src="Images/SignupPage.jpg" width="600">
+
+Main Page
+=========
+<img src="Images/main page.jpg" width="600">
+
+Search and Rate the Movie
+=========================
+<img src="Images/rateandSearchAMovie.jpg" width="600">
+
+Login As Administrator
+======================
+<img src="Images/loginasAdministrator.jpg" width="600">
+
+- only i can access this
+
+Administrator Portal
+=====================
+<img src="Images/admionistrator porta;.jpg" width="600">
+
