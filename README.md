@@ -2,8 +2,7 @@
 a java based web application deployed on Apache Tomcat.
 
 
-Web Engineering
-===============
+## Web Engineering
 
 
 Fall 2021
@@ -52,3 +51,5 @@ Modules:
 
 •	Session management
 
+DATABASE IS CREATED IN SQLYOG
+=============================
