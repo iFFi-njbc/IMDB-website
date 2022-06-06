@@ -3,12 +3,14 @@ a java based web application deployed on Apache Tomcat.
 
 
 Web Engineering
+===============
 
 
 Fall 2021
 
 
 Semester Project: Proposal 
+===========================
 
 
 Name:                 Ifrah Masood Khaliq 
@@ -20,8 +22,9 @@ Roll No.:	            BSEF19M548
 
 
 Project Title: 	IMDb Website
-
+-----------------------------
 Modules:
+--------
 
 •	Signup
 
